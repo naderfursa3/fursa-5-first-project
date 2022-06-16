@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-date
+date 
+df -h /
 ls -la /tmp/
 
 
