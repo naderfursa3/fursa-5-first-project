@@ -1,0 +1,8 @@
+*.a
+
+nader_secrets
+
+!libc.a
+/TODO
+.git
+build/
