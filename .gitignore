@@ -6,3 +6,4 @@ nader_secrets
 /TODO
 .git
 build/
+*.bin
