@@ -3,7 +3,7 @@
 date 
 df -h /
 ls -la /tmp/
-echo
+echo "Hello There!"
 
 
 
